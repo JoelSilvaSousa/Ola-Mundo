@@ -3,4 +3,4 @@
 
 Repositório criado durante uma aula gravada!
 
-Essa linha eu aterei diretamente no site! QUE IMPRESSIONANTE!
+Essa linha eu alterei diretamente no site! QUE IMPRESSIONANTE!
